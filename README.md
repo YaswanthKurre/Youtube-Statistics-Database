@@ -61,6 +61,7 @@ To load the Web UI for your application:
         c. Select the provided "Youtube Database Web UI- jam.py" zip file and click ok
         d. Your Data is uploaded into the UI now.
     10.Navigate to "http://127.0.0.1:8080/" in a web page and validate the data.
+    
 
 
 
