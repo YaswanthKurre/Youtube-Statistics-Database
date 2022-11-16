@@ -8,7 +8,7 @@
  a. YouTube Trending Video Dataset : https://www.kaggle.com/datasets/rsrishav/youtube-trending-video-dataset
  b. Trending YouTube Video Statistics and Comments: https://www.kaggle.com/datasets/datasnaek/youtube
 
-The above mentioned datasets are normalized into 12 different tables as mentioned in provided ER diagram.
+The above mentioned datasets are normalized into 12 different tables as mentioned in provided Data model.
 
 In order to Load project- you must have postgresql installed in your system.
 
