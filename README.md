@@ -61,12 +61,14 @@ To load the Web UI for your application:
         e. Enter your host name and port number in Host, Port respectively.
         f. Click ok 
         NOTE: If you are running in your local system with defaults- Host:localhost, port:5432. and your database must be active to connnect to a server.
-		 9. To import the data into your web UI application.
+  9. To import the data into your web UI application.
+  
         a. a. Click on the "Import" button on the right navigation of "http://127.0.0.1:8080/builder.html" page.
         b. A file window will be opened to select the zip file.
         c. Select the provided "Youtube Database Web UI- jam.py" zip file and click ok
         d. Your Data is uploaded into the UI now.
-  10.Navigate to "http://127.0.0.1:8080/" in a web page and validate the data.
+  
+ 10.Navigate to "http://127.0.0.1:8080/" in a web page and validate the data.
 				
     
 
