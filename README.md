@@ -1,5 +1,5 @@
 # Youtube-Statistics-Database
- This project discusses and implements a  database for major video streaming  platform called YouTube, this project store  and represent trending video statistics  based on different characteristics or  properties. Using this implemented  database, we can write queries to fetch  most liked videos, trending videos or any  video record. The dataset “Trending  YouTube Videos” is normalized to  represent different features or categories.
+📹This project discusses and implements a  database for major video streaming  platform called YouTube, this project store  and represent trending video statistics  based on different characteristics or  properties. Using this implemented  database, we can write queries to fetch  most liked videos, trending videos or any  video record. The dataset “Trending  YouTube Videos” is normalized to  represent different features or categories.
 
  A UI is also implemented for the same database to represent in the web using jam.py framework.
 
